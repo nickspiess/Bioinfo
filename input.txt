@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+		insert    0   RNA    CGAUGCGUUUUAGUGGUUAAAAA
+
+insert	 2 		DNA
+print 3
+insert 		3 DNA 	ATGGACCAT
+insert 5 DNA ACGGACCAC
+insert 4 DNA AGCT
+
+print
+
+
+insert 6 RNA AUUTT
+
+insert 1 DNA GCCCCGGGGGCCTTA
+insert 4 RNA AUGUUUAGUGGUUAAAAA
+
+print 4
+
+
+translate 4
+
+
+overlap 3 4
+
